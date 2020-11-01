@@ -38,7 +38,9 @@
 Программы:
 
 - Компас, Лоцман, LaTeX;
-- git, g++, avr-g++, msvc.
+- git, g++, avr-g++, msvc;
+- docker;
+- alpine, AstraLinux.
 
 ### [НПО Наука](http://npo-nauka.ru)
 
