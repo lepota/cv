@@ -2,8 +2,8 @@
 
 Мужчина, дата рождения 17 апреля 1985 г.
 
-- +7 926 934 2150
-- timelexa@gmail.com
+- Phone: [+7 926 934 2150](tel:+79269342150)
+- E-mail: [timelexa@gmail.com](mailto:timelexa@gmail.com)
 - Skype: [timelexa](skype:time.lexa?userinfo)
 - Telegram: [@TimeLexa](https://telegram.me/TimeLexa)
 
@@ -33,6 +33,7 @@
 
 - Компас, Лоцман;
 - latex, git;
+- Разработка приложения для автоматизации составления алфавитного перечня каталога деталей и сборочных единиц (g++).
 
 Проверка, отладка, настройка и испытания вновь разрабатываемых изделий.
 
