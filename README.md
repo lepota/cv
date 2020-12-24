@@ -2,14 +2,16 @@
 
 Мужчина, дата рождения 17 апреля 1985 г.
 
-- Phone: [+7 926 934 2150](tel:+79269342150)
+- Cell: [+7 926 934 2150](tel:+79269342150)
 - E-mail: [timelexa@gmail.com](mailto:timelexa@gmail.com)
 - Skype: [timelexa](skype:time.lexa?userinfo)
 - Telegram: [@TimeLexa](https://telegram.me/TimeLexa)
 
-Проживает: Одинцово
+Позиция: C++ Developer
 
 Гражданство: Россия
+
+Проживает: Одинцово
 
 Не готов к переезду, готов к редким командировкам
 
