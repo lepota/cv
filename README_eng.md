@@ -13,7 +13,7 @@ Citizenship: Russia
 
 Location: Moscow, Russia
 
-## Work Experience
+## Experience
 
 ### [SPA Molniya](http://www.npomolniya.ru/), Moscow
 
@@ -66,9 +66,7 @@ Software development for newly developed products.
 
 A leader in the field of creating systems and units of air conditioning, life support, automatic pressure control systems for aerospace equipment in Russia, as well as for international programs.
 
-August 2014 - February 2015
-
-#### Engineer
+#### August 2014 - February 2015 Engineer
 
 Tests of space and aviation equipment, units of air conditioning systems, periodic, mechanical, climatic tests, functional testing, work with specifications, state standards, maintenance of test reports.
 
@@ -78,17 +76,13 @@ Mechanical test benches VEDS-1500, ST-800, VR9500/ES-10-240.
 
 Production of weapons and military equipment.
 
-#### April 2012 - July 2014
-
-##### Adjustment and test engineer
+#### April 2012 - July 2014 Adjustment and test engineer
 
 Testing, adjustment of test benches, work with notices of changes in technological and design documentation, with specifications, test equipment passports, certification of test equipment and controls.
 
 Drawing up protocols and technological processes of tests.
 
-#### June 2011 - April 2012
-
-#### Tester
+#### June 2011 - April 2012 Tester
 
 Periodic testing of military equipment - delivery to the QCD and the customer, functional testing, working with measuring instruments (voltmeters, ammeters, current sources, frequency meters).
 
@@ -96,9 +90,7 @@ Periodic testing of military equipment - delivery to the QCD and the customer, f
 
 Auto parts production.
 
-April 2010 - October 2010
-
-#### Software specialist
+#### April 2010 - October 2010 Software specialist
 
 Programming of CNC machines NC210-230, mould design.
 
