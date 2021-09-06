@@ -6,6 +6,8 @@ Man, 17 April 1985
 - E-mail: [timelexa@gmail.com](mailto:timelexa@gmail.com)
 - Skype: [timelexa](skype:time.lexa?userinfo)
 - Telegram: [@TimeLexa](https://telegram.me/TimeLexa)
+- linkedin: [lepota](https://linkedin.com/in/lepota)
+- leetcode: [lepota](https://leetcode.com/lepota)
 
 Position: C++ Developer
 
