@@ -100,8 +100,9 @@ SolidWorks, Adem, CimCo Edit, MasterCam.
 
 ## Education
 
-- 2019 г. [coursera.org](http://www.coursera.org) - The Art of Developing in Modern C++
-- 2010 г. [Vyatka State University](http://www.vyatsu.ru), Kirov
+- 2021 - [stepik.org](https://stepik.org) - [Sport programming](https://stepik.org/cert/1255110)
+- 2019 - [coursera.org](http://www.coursera.org) - [The Art of Developing in Modern C++](https://www.coursera.org/specializations/c-plus-plus-modern-development)
+- 2010 - [Vyatka State University](http://www.vyatsu.ru), Kirov
   - Faculty of Automation and Computer Engineering
   - Specialty: Electric drive and automation of industrial plants and technological complexes
 

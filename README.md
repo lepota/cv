@@ -101,7 +101,8 @@ Adem, CimCo Edit, MasterCam.
 
 ## Образование
 
-- 2019 г. [coursera.org](http://www.coursera.org) - Искусство разработки на современном c++
+- 2021 г. [stepik.org](https://stepik.org) - [Быстрый старт в спортивное программирование](https://stepik.org/cert/1255110)
+- 2019 г. [coursera.org](http://www.coursera.org) - [Искусство разработки на современном c++](https://www.coursera.org/specializations/c-plus-plus-modern-development)
 - 2010 г. [Вятский Государственный Университет](http://www.vyatsu.ru), г. Киров
   - Факультет: автоматики и вычислительной техники
   - Специальность: Электропривод и автоматика промышленных установок и технологических комплексов
