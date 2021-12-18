@@ -30,19 +30,6 @@ February 2015 - present
 
 #### Test-engineer
 
-##### February 2015 - December 2018
-
-Servicing and checking military equipment items for function, conducting acceptance tests, completing test reports, troubleshooting items and test equipment, conducting certification and maintenance of test equipment.
-
-##### January 2019 - December 2019
-
-Development of operational documentation.
-Wrote operation manuals for newly developed products, catalogs of parts and assembly units..
-
-- Kompas, Loudsman;
-- latex, git;
-- Developed an application to automate the alphabetical list of parts and assemblies catalog (g++).
-
 ##### January 2020 - present
 
 Verification, debugging, adjustment and testing of newly developed products.
@@ -63,6 +50,19 @@ Software development for newly developed products.
   - Checking message integrity (crc16-xmodem);
   - Logging of messages received from the COM port;
   - Deciphering messages received from the COM port.
+
+##### January 2019 - December 2019
+
+Development of operational documentation.
+Wrote operation manuals for newly developed products, catalogs of parts and assembly units..
+
+- Kompas, Loudsman;
+- latex, git;
+- Developed an application to automate the alphabetical list of parts and assemblies catalog (g++).
+
+##### February 2015 - December 2018
+
+Servicing and checking military equipment items for function, conducting acceptance tests, completing test reports, troubleshooting items and test equipment, conducting certification and maintenance of test equipment.
 
 ### [SPA Nauka](http://npo-nauka.ru), Moscow
 
