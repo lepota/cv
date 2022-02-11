@@ -1,4 +1,4 @@
-# ![Photo](photo.jpeg "Photo") Guschin Alexey Andreevich
+# ![Photo](../photo.jpeg "Photo") Guschin Alexey Andreevich [[На русском](../../../)]
 
 Man, 17 April 1985
 
@@ -38,18 +38,21 @@ Software development for newly developed products.
 
 - Developed a program for a microcontroller working as part of the product
 
-  - Receiving/sending messages via USART interface;
-  - Checking message integrity (crc16-xmodem);
-  - Using ADCs and microcontroller timers;
-  - Execution of commands (operation with controller I/O ports) transmitted in messages.
+  - avr-g++, cmake, cppcheck, gogs (git-hosting), drone, docker (alpine);
+  - App functions:
+    - Receiving/sending messages via USART interface;
+    - Checking message integrity (crc16-xmodem);
+    - Using ADCs and microcontroller timers;
+    - Execution of commands (operation with controller I/O ports) transmitted in messages.
 
 - Developed a set of computer programs to test the operation of the product using a computer.
 
-  - msvc, g++ (std=c++20), git, cmake;
+  - MSVC, MinGW, cmake, gogs (git-hosting), drone, docker;
   - Sending/receiving messages via the COM port;
-  - Checking message integrity (crc16-xmodem);
-  - Logging of messages received from the COM port;
-  - Deciphering messages received from the COM port.
+  - App functions:
+    - Checking message integrity (crc16-xmodem);
+    - Logging of messages received from the COM port;
+    - Deciphering messages received from the COM port.
 
 ##### January 2019 - December 2019
 
@@ -58,7 +61,7 @@ Wrote operation manuals for newly developed products, catalogs of parts and asse
 
 - Kompas, Loudsman;
 - latex, git;
-- Developed an application to automate the alphabetical list of parts and assemblies catalog (g++).
+- Developed an application to automate the alphabetical list of parts and assemblies catalog (c++).
 
 ##### February 2015 - December 2018
 
