@@ -7,6 +7,7 @@ Man, 17 April 1985
 - Skype: [timelexa](skype:time.lexa?userinfo)
 - Telegram: [@TimeLexa](https://telegram.me/TimeLexa)
 - linkedin: [lepota](https://linkedin.com/in/lepota)
+- github: [lepota](https://github.com/lepota/cv)
 - leetcode: [lepota](https://leetcode.com/lepota)
 
 Position: C++ Developer
